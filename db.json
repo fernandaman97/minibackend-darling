@@ -1,0 +1,349 @@
+{
+    "productos": [
+        {
+            "idProducto": 1,
+            "codigo": 11,
+            "nombre": "Luxury Gems Necklace",
+            "precioUnitario": 168.76,
+            "categoria": "Necklaces",
+            "descripción": "Collar de gemas",
+            "cantidadEnStock": "20",
+            "imagen": "assets/svg/Luxury.svg",
+            "puntuacion": 4.5
+            
+        },
+        {
+            "idProducto": 3,
+            "codigo": 13,
+            "nombre": "Reflections Necklace",
+            "precioUnitario": 620.73,
+            "categoria": "Necklaces",
+            "descripción": "Collar liso",
+            "cantidadEnStock": 4,
+            "imagen": "assets/svg/Reflections.svg",
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 4,
+            "codigo": 14,
+            "nombre": "Dreamy Infinite Ring",
+            "precioUnitario": 327.71,
+            "categoria": "Rings",
+            "descripción": "Anillo gema",
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "imagen":"assets/svg/Dreamy.svg",
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 5,
+            "codigo": 15,
+            "nombre": "Opulent Jewels Ring",
+            "precioUnitario": 168.76,
+            "categoria": "Rings",
+            "descripción": "Anillo liso",
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "imagen": "assets/svg/Opulent.svg",
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 6,
+            "codigo": 16,
+            "nombre": "Serene Solitarie Earrings",
+            "precioUnitario": 168.76,
+            "categoria": "Earrings",
+            "descripción": "Aretes piedra preciosa",
+            "cantidadEnStock": 8,
+            "imagen": "assets/svg/Serene.svg",
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 7,
+            "nombre": "Timeless Halo Earrings",
+            "codigo": 17,
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 20,
+            "descripcion": "Aretes piedra preciosa",
+            "imagen": "assets/svg/Timeless-Halo.svg",
+            "categoria": "Earrings" ,
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 8,
+            "codigo": 18,
+            "nombre": "Exquisite Earrings",
+            "precioUnitario": 327.71,
+            "cantidadEnStock": 20,
+            "descripcion": "Aretes piedra preciosa",
+            "imagen": "assets/svg/ExquisiteEarrings.svg",
+            "categoria": "Earrings" ,
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 9,
+            "codigo": 19,
+            "nombre": "Timeless Elegance Rings",
+            "precioUnitario": 327.71,
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "descripcion": "Anillo de piedras",
+            "imagen": "assets/svg/Timeless-elegance.svg",
+            "categoria": "Rings" ,
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 9,
+            "codigo": 19,
+            "nombre": "Timeless Elegance Rings",
+            "precioUnitario": 327.71,
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "descripcion": "Anillo de piedras",
+            "imagen": "assets/svg/Timeless-elegance.svg",
+            "categoria": "Rings" ,
+            "puntuacion": 4.5
+        },
+        {
+            "idProducto": 10,
+            "codigo": 110,
+            "nombre": "Luxury Charms Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "descripcion": "Anillo de piedras",
+            "imagen": "assets/svg/Luxury-charms.svg",
+            "puntuacion": 4.6,
+            "categoria": "Rings"
+        },
+        {
+            "idProducto": 11,
+            "codigo": 111,
+            "nombre": "Blissful Bloom Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "descripcion": "Anillo de hojas",
+            "categoria": "Rings",
+            "imagenes": "assets/svg/Blissful.svg"
+            ,
+            "puntuacion": 4.6
+        },
+        {
+            "idProducto": 11,
+            "codigo": 111,
+            "nombre": "Blissful Bloom Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 10,
+            "descripcion": "Anillo de hojas",
+            "categoria": "Rings",
+            "imagen": "assets/svg/Blissful.svg",
+            "puntuacion": 4.6
+        },
+        {
+            "id": 12,
+            "codigo": 112,
+            "nombre": "Sparkling Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "descripcion": "Anillo brillante",
+            "imagen": "assets/svg/Sparkling.svg",
+            "categoria":  "Rings",
+            "puntuacion": 4.6
+        },
+        {
+            "id": 13,
+            "codigo": 113,
+            "nombre": "Glimmering Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": {
+                "48":{
+                    "rose": 2,
+                    "gold": 1},
+                "50": {
+                    "rose": 2,
+                    "gold": 1},
+                "52": {
+                    "rose": 2,
+                    "gold": 1},
+                "54": {
+                    "rose": 2,
+                    "gold": 1},
+                "56": {
+                    "rose": 2,
+                    "gold": 1},
+                "58": {
+                    "rose": 2,
+                    "gold": 1}
+            },
+            "descripcion": "Anillo de piedras",
+            "imagen": "assets/svg/Glimmering.svg",
+            "categoria":  "Rings",
+            "puntuacion": 4.6
+        },
+        {
+            "id": 14,
+            "codigo": 114,
+            "nombre": "Bracelet",
+            "precioUnitario": 820.73,
+            "cantidadEnStock": 10,
+            "descripcion": "Brazalete piedras",
+            "imagen": "assets/svg/Bracelet.svg",
+            "categoria":  "Rings",
+            "puntuacion": 4.6
+        }
+
+    ],
+
+
+"categorias": [
+        {
+            "id": 21,
+            "nombre": "Rings",
+            "color": "#093931FF"
+        },
+        {
+            "id": 22,
+            "nombre": "Bracelets",
+            "color": "#093931FF"
+        },
+        {
+            "id": 23,
+            "nombre": "Necklaces",
+            "color": "#093931FF"
+        },
+        {
+            "id": 24,
+            "nombre": "Earrings",
+            "color": "#093931FF"
+        }
+    ],
+    "registroCompras":[]
+}
